@@ -21,3 +21,10 @@ age = input("what is your age")
 greetings = "hello"
 
 print(greetings, name, "you are still young")
+
+
+#input and type casting
+
+age = input("what's your age? ")
+age = int(age)
+print("your age after 10 years", age+10)
