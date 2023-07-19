@@ -64,5 +64,4 @@ def future_age(age):
 
 
 #print(future_age(4))
-fut_age = future_age(int(input("enter age? ")))
-print(fut_age)
+print(future_age(int(input("enter age? "))))
